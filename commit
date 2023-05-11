@@ -1,0 +1,69 @@
+init commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	deleted:    linux/.gitignore
+#	deleted:    linux/CMakeLists.txt
+#	deleted:    linux/flutter/CMakeLists.txt
+#	deleted:    linux/flutter/generated_plugin_registrant.cc
+#	deleted:    linux/flutter/generated_plugin_registrant.h
+#	deleted:    linux/flutter/generated_plugins.cmake
+#	deleted:    linux/main.cc
+#	deleted:    linux/my_application.cc
+#	deleted:    linux/my_application.h
+#	deleted:    macos/.gitignore
+#	deleted:    macos/Flutter/Flutter-Debug.xcconfig
+#	deleted:    macos/Flutter/Flutter-Release.xcconfig
+#	deleted:    macos/Flutter/GeneratedPluginRegistrant.swift
+#	deleted:    macos/Podfile
+#	deleted:    macos/Runner.xcodeproj/project.pbxproj
+#	deleted:    macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+#	deleted:    macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+#	deleted:    macos/Runner.xcworkspace/contents.xcworkspacedata
+#	deleted:    macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+#	deleted:    macos/Runner/AppDelegate.swift
+#	deleted:    macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json
+#	deleted:    macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png
+#	deleted:    macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png
+#	deleted:    macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png
+#	deleted:    macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png
+#	deleted:    macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png
+#	deleted:    macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png
+#	deleted:    macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png
+#	deleted:    macos/Runner/Base.lproj/MainMenu.xib
+#	deleted:    macos/Runner/Configs/AppInfo.xcconfig
+#	deleted:    macos/Runner/Configs/Debug.xcconfig
+#	deleted:    macos/Runner/Configs/Release.xcconfig
+#	deleted:    macos/Runner/Configs/Warnings.xcconfig
+#	deleted:    macos/Runner/DebugProfile.entitlements
+#	deleted:    macos/Runner/Info.plist
+#	deleted:    macos/Runner/MainFlutterWindow.swift
+#	deleted:    macos/Runner/Release.entitlements
+#	deleted:    web/favicon.png
+#	deleted:    web/icons/Icon-192.png
+#	deleted:    web/icons/Icon-512.png
+#	deleted:    web/icons/Icon-maskable-192.png
+#	deleted:    web/icons/Icon-maskable-512.png
+#	deleted:    web/index.html
+#	deleted:    web/manifest.json
+#	deleted:    windows/.gitignore
+#	deleted:    windows/CMakeLists.txt
+#	deleted:    windows/flutter/CMakeLists.txt
+#	deleted:    windows/flutter/generated_plugin_registrant.cc
+#	deleted:    windows/flutter/generated_plugin_registrant.h
+#	deleted:    windows/flutter/generated_plugins.cmake
+#	deleted:    windows/runner/CMakeLists.txt
+#	deleted:    windows/runner/Runner.rc
+#	deleted:    windows/runner/flutter_window.cpp
+#	deleted:    windows/runner/flutter_window.h
+#	deleted:    windows/runner/main.cpp
+#	deleted:    windows/runner/resource.h
+#	deleted:    windows/runner/resources/app_icon.ico
+#	deleted:    windows/runner/runner.exe.manifest
+#	deleted:    windows/runner/utils.cpp
+#	deleted:    windows/runner/utils.h
+#	deleted:    windows/runner/win32_window.cpp
+#	deleted:    windows/runner/win32_window.h
+#
