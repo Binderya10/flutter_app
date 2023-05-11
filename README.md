@@ -1,6 +1,7 @@
 # flutter_app
+Доорхи коммандыг уншуулж сан суулгана.  Тэгээд ажиллуулна уу
 
-A new Flutter project.
+flutter pub get
 
 ## Getting Started
 
